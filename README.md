@@ -14,5 +14,3 @@ This project involved engineering an end-to-end data pipeline to analyse communi
 - **Business Intelligence:** Tableau Desktop (Analytics Dashboards)
 
 <img width="3180" height="4494" alt="Email usage Poster" src="https://github.com/user-attachments/assets/609785ad-e77c-4d9a-a286-430d01449385" />
-
-![Project Poster](Email%20usage%20Poster.png)
