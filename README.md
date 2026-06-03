@@ -13,4 +13,4 @@ This project involved engineering an end-to-end data pipeline to analyse communi
 - **Data Engineering:** Tableau Prep (ETL processing)
 - **Business Intelligence:** Tableau Desktop (Analytics Dashboards)
 
-![Project Poster](Email usage Poster)
+![Project Poster](Email usage Poster.png)
